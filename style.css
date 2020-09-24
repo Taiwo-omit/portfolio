@@ -18,16 +18,15 @@ h3{
     text-align: center;
 }
 
+#image{
+    text-align: center;
+}
+
 #content{
     font-size: 15px;
     text-align: left;
 }
 
-.images{
-    display: flex;
-    flex-direction:row ;
-    justify-content: space-evenly;
-}
 
 .navbar{
     flex-direction:row ; 
